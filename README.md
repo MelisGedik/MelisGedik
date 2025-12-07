@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>GorBildir, my team's graduation project. I am leading the web application development, building the backend APIs, and integrating AI features.<br><br>🌱 I’m currently learning<br><br>Cybersecurity fundamentals and advanced Prompt Engineering to better integrate AI into software solutions.<br><br>💬 Ask me about<br><br>React, Python, API Design (Swagger), and Database Management. I love solving problems related to connecting frontends with robust backends.<br><br>⚡ Fun fact<br><br>Before becoming a Computer Engineer, I studied French Interpretation and Translation! I also speak some Spanish.
+🔭 I’m currently working on<br><br>GorBildir, my team's graduation project. I am leading the mobile application development, integrating the backend APIs, and integrating AI features.<br><br>🌱 I’m currently learning<br><br>Cybersecurity fundamentals and Prompt Engineering to better integrate AI into software solutions.<br><br>💬 Ask me about<br><br>React, Python, C++, Java and Database Management. I love building efficient, user-friendly software solutions from the ground up.<br><br>⚡ Fun fact<br><br>Before becoming a Computer Engineer, I studied French Interpretation and Translation! I also speak some Spanish.
 
 
 ## 🌐 Socials:
