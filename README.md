@@ -16,4 +16,4 @@ I'm a computer engineering graduate focused on cross-platform mobile development
 - **Backend & data** — ASP.NET Core, Entity Framework Core, PostgreSQL, MySQL, SQLite, Realm
 - **AI & tooling** — YOLOv8, Git, Swagger
 
-[LinkedIn](https://www.linkedin.com/in/melis-gedik-577bb022b/) · [Email](mailto:melisgedik41@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/melis-gedik-577bb022b/) · [Email](mailto:melisgedik41@gmail.com) · [Portfolio](https://melisgedik.github.io/portfolio/)
